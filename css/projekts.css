@@ -1,0 +1,49 @@
+.projekte {
+    left: 0%;
+    top: 20%;
+    color: white;
+}
+  
+  .projekte h1 {
+    padding-top: 300px;
+    font-size: 50px;
+    color: #ff0000;
+}
+  
+  .projekte p {
+    padding-top: 25px;
+    line-height: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+.invite {
+  font-size: 150%;
+  margin-left: 7%;
+  color: white;
+  background-color: #5865F2;
+  border-radius: 8px;
+  border: 3px solid #5865F2;
+  
+  -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5;
+}
+
+.invite:hover {
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 10px 10px 0 rgba(0,0,0,0.19);
+}
+
+.webpage {
+  font-size: 150%;
+  color: white;
+  background-color: #25282c;
+  border-radius: 8px;
+  border: 3px solid #25282c;
+
+    -webkit-transition-duration: 0.5s;
+      transition-duration: 0.5;
+}
+
+.webpage:hover {
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 10px 10px 0 rgba(0,0,0,0.19);  
+}

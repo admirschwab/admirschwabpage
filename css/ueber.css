@@ -1,0 +1,21 @@
+.ueber {
+  left: 50%;
+  top: 50%;
+  color: white;
+}
+
+.ueber h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 20%;
+  font-size: 50px;
+  color: #ff0000;
+}
+
+.ueber p {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  text-align: center;
+  line-height: 30px;
+}

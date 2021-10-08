@@ -1,0 +1,14 @@
+.sign{
+    margin-top: 15%;
+    font-size: 400%;
+    font-family: consolas;
+
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+}
+
+.mainde {
+    font-family: consolas;
+    font-size: 130%;
+}

@@ -1,0 +1,52 @@
+.mainstyle{
+    background-color: #2C2F33;
+    outline: 12px solid #2C2F33;
+    color: white;
+    font-family: arial;
+
+    height: fullscreen;
+    width: 99%;
+    position: absolute;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.navlinks {
+  display: flex;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  list-style: none;
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+.navlink {
+  justify-content: center;
+  position: static;
+  color: white;
+  text-decoration: none;
+  margin-right: 25px;
+  margin-left: 25px;
+  transition: 0.3s;
+}
+
+.navlink:hover {
+  transition: 0.3s;
+  transform: tra;
+  color: #ff0000;
+  font-size: 21px;
+}
